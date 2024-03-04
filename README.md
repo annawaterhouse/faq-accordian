@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://main--stunning-bienenstitch-9ef108.netlify.app/)
 
 ## My process
 
@@ -38,13 +38,11 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+Dynamic and responsive positioning
 
 ### Continued development
 
-CSS absolutely positioned container sizing
+CSS optimization and container sizing for absolutely positioned elements
 
 
 
